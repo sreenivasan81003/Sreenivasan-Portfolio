@@ -1,7 +1,3 @@
-Sreenivasan's Portfolio
-
-Personal portfolio showcasing my projects, skills, and experience as an Automation & QA Engineer.
-
 
 👨‍💻 About Me
 Hi! I'm Pachipulusu Subramanya Sreenivasan, an Automation & QA Engineer with ~1 year of expertise in manual and automation testing. I specialize in mobile app testing (Android & iOS), building scalable automation frameworks, and integrating AI tools into QA workflows.
